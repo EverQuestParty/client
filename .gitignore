@@ -3,3 +3,5 @@ out/
 sql/
 *.exe
 patch.zip
+zones/*.eqg
+*.blend1

@@ -7,7 +7,8 @@ set last=eqgzi
 eqgzi import %zone% || goto :error
 
 set last=copy
-copy out\* c:\src\demoncia\client\rof\ || goto :error
+copy out\* ..\..\rof || goto :error
+copy out\* %EQPATH% || goto :error
 
 set last=azone
 cd out 
