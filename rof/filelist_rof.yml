@@ -1,4 +1,4 @@
-version: 202212266b4febdc233ffe2341d22a18462cdd91
+version: 2022122629165be5834f5d432b2372babc5fb59c
 downloadprefix: https://raw.githubusercontent.com/EverQuestParty/client/main/rof/
 downloads:
 - name: soldungb.eqg
@@ -6,6 +6,6 @@ downloads:
   date: "20221226"
   size: 791940
 - name: soldungb_EnvironmentEmitters.txt
-  md5: ab899f666a3b18f480954229e433d378
+  md5: 1a5c3724569495790187ddfaad8259cb
   date: "20221226"
-  size: 152
+  size: 148

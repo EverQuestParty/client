@@ -1,0 +1,21 @@
+name: Build latest patch
+on: push
+
+jobs:
+  run:
+    name: FileListBuilder
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Checksum rof
+        run: cd rof && chmod +x filelistbuilder && ./filelistbuilder
+
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: filelistbuilder
+          author_email: filelistbuilder@notvalid.com
+          message: 'Updated filelist_rof.yml'
+          add: 'rof/filelist_rof.yml'
