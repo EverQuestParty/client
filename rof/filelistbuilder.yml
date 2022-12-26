@@ -1,0 +1,5 @@
+#client possible options: tit, sof, und, rof
+client: rof
+
+ #Prefix for downloading patch files
+downloadprefix: https://raw.githubusercontent.com/EverQuestParty/client/main/rof/
