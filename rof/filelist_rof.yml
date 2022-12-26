@@ -1,11 +1,27 @@
-version: 2022122629165be5834f5d432b2372babc5fb59c
+version: 202212262ef5cb4d0a078e82bafa9ba0e096bc0d
 downloadprefix: https://raw.githubusercontent.com/EverQuestParty/client/main/rof/
 downloads:
-- name: soldungb.eqg
-  md5: 78eb58789960cda18559313d7c663ab7
+- name: dbstr_us.txt
+  md5: ea420b20a634dfe09d1eec8a94d7692f
   date: "20221226"
-  size: 791940
+  size: 6325644
+- name: dinput8.dll
+  md5: 5fe7f140006264c508e61618c0553f23
+  date: "20221226"
+  size: 1132032
+- name: eqstr_us.txt
+  md5: 8a624ca1b042bb5ad7c99d654ef71a0c
+  date: "20221226"
+  size: 425113
+- name: soldungb.eqg
+  md5: 2ddc4a48122a24da951d427fc1e6531c
+  date: "20221226"
+  size: 791949
 - name: soldungb_EnvironmentEmitters.txt
   md5: 1a5c3724569495790187ddfaad8259cb
   date: "20221226"
   size: 148
+- name: village.eqg
+  md5: 559499652837964f090065f3dbcfba68
+  date: "20221226"
+  size: 1318290
