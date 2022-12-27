@@ -1,6 +1,10 @@
-version: 202212262ef5cb4d0a078e82bafa9ba0e096bc0d
+version: 2022122630b197a9c551787ef6f88e3f57f23e3e
 downloadprefix: https://raw.githubusercontent.com/EverQuestParty/client/main/rof/
 downloads:
+- name: Resources/loadscreen.jpg
+  md5: 8593d660b8daa1834f9970535976fb41
+  date: "20221226"
+  size: 290325
 - name: dbstr_us.txt
   md5: ea420b20a634dfe09d1eec8a94d7692f
   date: "20221226"
