@@ -1542,7 +1542,7 @@ EQST0002
 2241 Scumsuckers
 2242 This spell cannot be cast on group members.
 2243 Kokoriko Village
-2244 North Qeynos
+2244 Chess
 2245 Surefall Glade
 2246 Qeynos Hills
 2247 Highpass Hold
